@@ -11,11 +11,16 @@ Câmpuri și tipuri de valori: <br>
 •	Country: Indică țara de origine a comenzii. Acest câmp este util pentru analiza piețelor internaționale și identificarea celor mai active regiuni în vânzările online. <br><br>
 Scopul analizei acestui set de date este să ofere informații practice și valoroase pentru îmbunătățirea strategiei de vânzare și pentru ghidarea deciziilor de afaceri. În acest context, următoarele aspecte sunt vizate în detaliu:<br>
 1.	Distribuția prețurilor unitare: Analiza distribuției prețurilor unitare ajută la înțelegerea poziționării produselor în funcție de costuri. <br>
-2.	Distribuția cantităților vândute: Oferă informații despre cererea generală a produselor. <br>
-3.	Top 10 produse după frecvență: Acest punct vizează identificarea produselor care sunt cele mai cumpărate de către clienți. <br>
-4.	Top 10 țări după valoarea tranzacțiilor: Analiza contribuției fiecărei piețe la veniturile totale. <br>
-5.	Heatmap pentru tranzacții în funcție de zi și oră: Vizualizarea densității tranzacțiilor în funcție de momentele zilei și zilele săptămânii. <br>
-6.	Relația dintre preț unitar și cantitate: Această analiză explorează modul în care prețurile unitare afectează cantitatea achiziționată. <br>
-7.	Evoluția valorii tranzacțiilor în timp: Monitorizarea valorii tranzacțiilor în diferite momente de timp. <br>
-8.	Valoarea medie a tranzacțiilor pe țară: Analizarea piețelor internaționale pentru a evalua comportamentele specifice ale consumatorilor. <br>
-9.	Valoarea medie a tranzacțiilor pe țară: Analizarea piețelor internaționale pentru a evalua comportamentele specifice ale consumatorilor. <br>
+2.	Distribuția prețurilor unitare (interval 0-20): Analiza distribuției prețurilor unitare ajută la înțelegerea poziționării produselor în funcție de costuri. <br>
+3.	Distribuția cantităților vândute: Oferă informații despre cererea generală a produselor. <br>
+4.	Top 10 produse după frecvență:  Acest punct vizează identificarea produselor care sunt cele mai cumpărate de către clienți. <br>
+5.	Top 10 țări după valoarea tranzacțiilor:  Analiza contribuției fiecărei piețe la veniturile totale. <br>
+6.	Țările cu cele mai mici valori ale tranzacțiilor:  Analiza piețelor mai mici oferă perspective asupra contribuției lor la veniturile totale. <br>
+7.	Heatmap pentru tranzacții în funcție de zi și oră:  Vizualizarea densității tranzacțiilor în funcție de momentele zilei și zilele săptămânii. <br>
+8.	Relația dintre preț unitar și cantitate: Această analiză explorează modul în care prețurile unitare afectează cantitatea achiziționată. <br>
+9.	Evoluția valorii tranzacțiilor în timp: Monitorizarea valorii tranzacțiilor în diferite momente de timp. <br>
+10.	Vizualizarea evoluției valorilor tranzacțiilor, evidențiind spike-urile:  Spike-urile reprezintă perioade de activitate intensă, iar analiza lor poate dezvălui cauze specifice. <br>
+11.	Distribuția spike-urilor pe zilele săptămânii: Această analiză arată în ce zile ale săptămânii apar cele mai multe spike-uri. <br>
+12.	Distribuția spike-urilor pe ore:  Acest grafic analizează la ce ore din zi apar spike-urile. <br>
+13.	Valoarea medie a tranzacțiilor pe țară: Analizarea piețelor internaționale pentru a evalua comportamentele specifice ale consumatorilor. <br>
+14.	Valoarea medie a tranzacțiilor pe țară: Analizarea piețelor internaționale pentru a evalua comportamentele specifice ale consumatorilor.
